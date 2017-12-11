@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="alumnos_familia">
+        <item>@array/informatica</item>
+        <item>@array/administrativo</item>
+        <item>@array/electricidad</item>
+    </array>
+
+    <string-array name="familias">
+        <item>informatica</item>
+        <item>electricidad</item>
+        <item>administrativo</item>
+    </string-array>
+
+    <string-array name="informatica">
+        <item>pepe</item>
+        <item>juan</item>
+        <item>santi</item>
+    </string-array>
+
+    <string-array name="administrativo">
+        <item>sara</item>
+        <item>elena</item>
+        <item>chenoa</item>
+    </string-array>
+    <string-array name="electricidad">
+        <item>puta</item>
+        <item>zorra</item>
+        <item>pelirroja</item>
+    </string-array>
+
+</resources>
